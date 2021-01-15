@@ -1,7 +1,7 @@
-# Bruce's Image Utilities
+# Image Utilities
 The project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). <br><br>
 
-It is a simple test workbench for the backend project [Bruce's Image Utilities](https://github.com/zm2he/imgutil), in particullary testing image cartoonization<br>
+It is a simple test workbench for the backend project [Image Utilities](https://github.com/zm2he/imgutil), in particullary testing image cartoonization<br>
 
 <br><br><img src="./public/static/image/imgutil-web.png" /><br><br>
 
@@ -15,4 +15,4 @@ Then upload the entire folder /build to a server
 
 # References
 [1] [Create React App](https://github.com/facebook/create-react-app)<br>
-[2] [Bruce's Image Utilites](http://github.com/zm2he/imgutil)<br>
+[2] [Image Utilites](http://github.com/zm2he/imgutil)<br>
