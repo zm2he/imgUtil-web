@@ -1,0 +1,24 @@
+/*
+  Bruce's project
+  Copyright (c) 2021 brucehe<bruce.he.62@gmail.com>
+  
+  See LICENSE.txt for more information
+*/
+
+
+.app {
+  min-width: 800px;
+  padding: 64px 80px;
+  background-color: #eee;
+}
+
+.app-title {
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+.img-container {
+  max-width: 45%;
+  margin: 8px;
+}
+
